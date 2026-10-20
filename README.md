@@ -21,6 +21,7 @@ The report response is also available in the dialog's expandable raw-response se
 ## Run
 Open `index.html` in a browser or deploy the folder to GitHub Pages. The dashboard uses the Chart.js CDN and the Torn API, so internet access is required.
 Or use link https://html-preview.github.io/?url=https://github.com/Deadend26/Torn-Faction-Dashboard/blob/main/index.html to run in your browser.
+This is the same link shortened https://shorturl.at/tZAuN
 
 ### Excluding members from a ranked-war report
 
