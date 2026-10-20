@@ -1,0 +1,15 @@
+{
+  "_description": "Example format for exported faction snapshots. The live dashboard currently stores snapshots in browser localStorage; this file is a schema/example, not a live API cache.",
+  "schemaVersion": 1,
+  "snapshots": [
+    {
+      "timestamp": "2026-10-20T12:00:00.000Z",
+      "memberCount": 0,
+      "averageLevel": null,
+      "medianLevel": null,
+      "highestLevel": null,
+      "highestLevelName": null,
+      "members": []
+    }
+  ]
+}
